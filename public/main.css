@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 800px;
+}
+
+canvas {
+  margin-left: 150px;
+  margin-top: 145px;
+}
